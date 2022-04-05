@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Victor S Lempeine
-- 👀 I’m interested in programming in python
+- 👀 I’m interested in programming in PHP/Laravel/WordPress and SQL
 - 🌱 I’m currently learning the basics but thankfully I am a fast learner so to say
 - 💞️ I’m looking to collaborate on git and anyone willing to help me ,we help each other as we get along
 - 📫 How to reach me ,you can do so via victorlempeine@gmail.com
